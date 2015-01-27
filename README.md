@@ -16,7 +16,8 @@ Ulam Spiral, here are some links:
 
 # How to use
 You first need to have [Go properly installed](http://golang.org/doc/install#download). 
-Ensure that your GOPATH/bin is added to your PATH environment variable
+Ensure that your `GOPATH/bin` is added to your PATH environment variable.
+
 After that you can "go get" the project easily with:
 
     go get github.com/kloster/ulam
@@ -46,5 +47,6 @@ Who knows, maybe the formula to get Prime numbers is about to be discovered! (We
 be that happy. The Internet security would explode!)
 
 # TODO
+
 *Improve the UlamSpiral algorithm
 *Add concurrency
