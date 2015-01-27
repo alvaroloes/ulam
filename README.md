@@ -47,6 +47,5 @@ Who knows, maybe the formula to get Prime numbers is about to be discovered! (We
 be that happy. The Internet security would explode!)
 
 # TODO
-
-*Improve the UlamSpiral algorithm
-*Add concurrency
+* Improve the UlamSpiral algorithm
+* Add concurrency
