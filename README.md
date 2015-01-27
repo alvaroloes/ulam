@@ -15,10 +15,10 @@ Ulam Spiral, here are some links:
 * [Prime Spiral](http://mathworld.wolfram.com/PrimeSpiral.html)
 
 # Why?
-Well, I like the kind of mystery around the prime numbers and I am liking Go programing language a lot, so I decided
-to start learning the image processing in Go with this tiny program.
+Well, I like the kind of mystery around the prime numbers and I am liking a lot the Go programing language a lot, 
+so I decided to start learning the image processing in Go with this tiny program.
  
-If I find the time, I will try to play a little more with other kind of prime representations... 
+If I find the time, I will try to play a little more with other kind of prime numbers graphical representations...
 
-Who knows, maybe the formula to get Prime numbers is about to be discovered! (Well, in that case we should be really 
-worried about internet security)
+Who knows, maybe the formula to get Prime numbers is about to be discovered! (Well, in that case we should not 
+be that happy. The Internet security would explode!)
